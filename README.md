@@ -14,7 +14,7 @@ Luis Rosales, Stephanie Hill
 
 ## Issues Encountered
 
-Most of my issues were solved when I finally changed the 
+Most of my issues were solved when I finally changed the object.key and bucket.name in my Event JSON of my Test event.
 
 ## Links
 
