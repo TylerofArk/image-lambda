@@ -10,7 +10,7 @@ Tyler Main
 
 ## Credits
 
-Luis Rosales, Stephanie Hill
+Luis Rosales, Stephanie Hill, Demo Code, Keelen Fisher, Brandon Pitts
 
 ## Issues Encountered
 
